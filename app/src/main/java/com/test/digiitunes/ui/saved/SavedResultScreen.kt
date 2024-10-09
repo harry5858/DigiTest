@@ -52,8 +52,8 @@ fun SavedResultScreen(navController: NavHostController) {
         onDispose {
             if (mediaPlayer.isPlaying) {
                 mediaPlayer.stop()
-                mediaPlayer.reset()
             }
+            mediaPlayer.reset()
         }
     }
     BaseScreen(
