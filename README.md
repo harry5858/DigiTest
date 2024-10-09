@@ -6,7 +6,7 @@
 ○ UI: Jetpack Compose\
 ○ Local storage: Room database\
 ○ Audio Player: MediaPlayer\
-○ Video Player: Exo Player\
+○ Video Player: Exo Player
 
 
 # Screenshots
